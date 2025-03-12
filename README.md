@@ -16,10 +16,10 @@ Unemat
 
 
 
-Introdução
+## introdução
 Projeto de engenharia de software para gestão de TCC 
 
-Descrição
+## descrição
 Diagramas
 3.1 Diagrama de classe
 3.2. Diagrama de casos de uso
