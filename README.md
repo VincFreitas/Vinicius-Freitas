@@ -348,6 +348,8 @@ erDiagram
     Equipamento ||--o{ Contrato : gerencia
     Qualidade ||--o{ Cliente : avalia
 
+```
+
 
 # 3.3 Diagrama de atividade
 
