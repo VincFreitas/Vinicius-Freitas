@@ -94,7 +94,7 @@ Projeto de engenharia de software para gestão de uma pedreira.
 
 ### Diagrama feito no no white star (versão 1)
 
-![diagrama de classe](https)
+![diagrama de classe](https://github.com/VincFreitas/Vinicius-Freitas/blob/main/IMAGENS/DiagramaDeClasses1.png)
 
 >[!TIP]
 > Faça um diagrama de classe usando Markdown e Mermaid, para os requisitos abaixo
