@@ -57,6 +57,9 @@ Projeto de engenharia de software para gestão de uma pedreira.
 
 # 2.2. Funcionais e não funcionais
 
+> [!TIP]
+> Faça uma tabela usando Markdown, com duas colunas, uma indicando os requisitos e a outra coluna indicando o tipo de  requisito (como "funcional" ou "não funcion      al"), para esta tarefa use a lista abaixo.
+
 | Requisito                                         | Tipo de Requisito  |
 |---------------------------------------------------|--------------------|
 | Classificação de clientes                        | Funcional          |
@@ -84,10 +87,6 @@ Projeto de engenharia de software para gestão de uma pedreira.
 | Controle de licenças                             | Não funcional      |
 | Validação de qualidade                           | Funcional          |
 | Gerenciamento de fornecedores                    | Funcional          |
-
-
-> [!TIP]
-> Faça uma tabela usando Markdown, com duas colunas, uma indicando os requisitos e a outra coluna indicando o tipo de  requisito (como "funcional" ou "não funcional"), para esta tarefa use a lista abaixo.
 
 # 3 Diagramas
 
@@ -262,7 +261,7 @@ Qualidade valida os materiais fornecidos pelos Clientes.
 # 3.2 Diagrama de casos de uso
 
 >[!TIP]
-> Faça um diagrama de Entidade Relacionamento usando MArkdown e Mermaid, para os requisitos a baixo
+> Faça um diagrama de Entidade Relacionamento usando Markdown e Mermaid, para os requisitos a baixo
 
 ```mermaid
 erDiagram
@@ -652,4 +651,3 @@ VALUES
 
 ´´´
 
-A
