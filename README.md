@@ -354,7 +354,7 @@ erDiagram
 
 # 3.3 Diagrama de atividade
 
-![diagrama de atividade]()
+![diagrama de atividade](https://github.com/VincFreitas/Vinicius-Freitas/blob/main/IMAGENS/DiagramaDeA%C3%A7%C3%A3o.png)
 
 # 3.4 Diagrama de componentes
 
