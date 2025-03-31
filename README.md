@@ -8,6 +8,7 @@ Unemat
 - [3 Diagramas](#3-diagramas)
   - [3.1 Diagrama de classe](#31-diagrama-de-classe)
     - [Diagrama feito no no white star (versão 1)](#diagrama-feito-no-no-white-star-versão-1)
+    - [Diagrama gerado pelo GPT](#diagrama-gerado-pelo-gpt)
 - [3.1.1. Descrição do diagrama de classe](#311-descrição-do-diagrama-de-classe)
 - [3.2 Diagrama de casos de uso](#32-diagrama-de-casos-de-uso)
 - [3.3 Diagrama de atividade](#33-diagrama-de-atividade)
@@ -96,6 +97,7 @@ Projeto de engenharia de software para gestão de uma pedreira.
 
 ![diagrama de classe](https://github.com/VincFreitas/Vinicius-Freitas/blob/main/IMAGENS/DiagramaDeClasses1.png)
 
+### Diagrama gerado pelo GPT
 >[!TIP]
 > Faça um diagrama de classe usando Markdown e Mermaid, para os requisitos abaixo
 
