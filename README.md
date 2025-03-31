@@ -373,7 +373,7 @@ erDiagram
 >[!TIP]
 > Faça um Script SQL para MySQL, para o diagrama Mermaid acima
 
-´´´SQL
+```SQL
 
 -- Remover tabelas existentes (ordem inversa das dependências)
 DROP TABLE IF EXISTS Qualidade
@@ -515,14 +515,14 @@ CREATE TABLE Qualidade (
     motivo VARCHAR(255)
 );
 
-´´´
+```
 
 ### A.2. Dado artificiais para testes de banco
 
 >[!TIP]
 > Faça um scritp SQL para MySQL, usando os comandos create anteriores, para popular as tabelas da banco com pelo menos 5 registros ficticios.
 
-´´´
+```
 
 -- Populando a tabela Cliente
 INSERT INTO Cliente (nome, endereco, cnpj, frequenciaCompra, valorTotalGasto)
@@ -669,5 +669,5 @@ VALUES
 (TRUE, 'Produto aceito sem ressalvas');
 
 
-´´´
+```
 
