@@ -1,31 +1,31 @@
 # Vinicius-FreitasAula-ENGENHARIA-DE-SOFTWARE
 Unemat
 - [Vinicius-FreitasAula-ENGENHARIA-DE-SOFTWARE](#vinicius-freitasaula-engenharia-de-software)
-- [1 Introdução](#1-introdução)
-- [2 Descrição](#2-descrição)
+- [1. Introdução](#1-introdução)
+- [2. Descrição](#2-descrição)
   - [2.1. Requisitos](#21-requisitos)
 - [2.2. Funcionais e não funcionais](#22-funcionais-e-não-funcionais)
-- [3 Diagramas](#3-diagramas)
-  - [3.1 Diagrama de classe](#31-diagrama-de-classe)
+- [3. Diagramas](#3-diagramas)
+  - [3.1. Diagrama de classe](#31-diagrama-de-classe)
     - [Diagrama feito no white star (versão 1)](#diagrama-feito-no-white-star-versão-1)
     - [Diagrama gerado pelo GPT](#diagrama-gerado-pelo-gpt)
 - [3.1.1. Descrição do diagrama de classe](#311-descrição-do-diagrama-de-classe)
-- [3.2 Diagrama de casos de uso](#32-diagrama-de-casos-de-uso)
-- [3.3 Diagrama de atividade](#33-diagrama-de-atividade)
-- [3.4 Diagrama de componentes](#34-diagrama-de-componentes)
-- [3.5 Diagrama de implementação](#35-diagrama-de-implementação)
-- [4 Histórias de usuarios](#4-histórias-de-usuarios)
-- [5 Protótipo de telas](#5-protótipo-de-telas)
-- [6 Diagrama de navegação de tela](#6-diagrama-de-navegação-de-tela)
+- [3.2. Diagrama de casos de uso](#32-diagrama-de-casos-de-uso)
+- [3.3. Diagrama de atividade](#33-diagrama-de-atividade)
+- [3.4. Diagrama de componentes](#34-diagrama-de-componentes)
+- [3.5. Diagrama de implementação](#35-diagrama-de-implementação)
+- [4. Histórias de usuarios](#4-histórias-de-usuarios)
+- [5. Protótipo de telas](#5-protótipo-de-telas)
+- [6. Diagrama de navegação de tela](#6-diagrama-de-navegação-de-tela)
   - [Anexos](#anexos)
     - [A.1. Script SQL](#a1-script-sql)
     - [A.2. Dado artificiais para testes de banco](#a2-dado-artificiais-para-testes-de-banco)
 
 
-# 1 Introdução
+# 1. Introdução
 Projeto de engenharia de software para gestão de uma pedreira.
 
-# 2 Descrição
+# 2. Descrição
 ## 2.1. Requisitos
 
 | ID | 								REQUISITO								|
@@ -89,9 +89,9 @@ Projeto de engenharia de software para gestão de uma pedreira.
 | Validação de qualidade                           | Funcional          |
 | Gerenciamento de fornecedores                    | Funcional          |
 
-# 3 Diagramas
+# 3. Diagramas
 
-## 3.1 Diagrama de classe
+## 3.1. Diagrama de classe
 
 ### Diagrama feito no white star (versão 1)
 
@@ -260,7 +260,7 @@ Equipamento possui relação com a classe Contrato, garantindo a manutenção co
 
 Qualidade valida os materiais fornecidos pelos Clientes.
 
-# 3.2 Diagrama de casos de uso
+# 3.2. Diagrama de casos de uso
 
 >[!TIP]
 > Faça um diagrama de Entidade Relacionamento usando Markdown e Mermaid, para os requisitos a baixo
@@ -352,19 +352,19 @@ erDiagram
 ```
 
 
-# 3.3 Diagrama de atividade
+# 3.3. Diagrama de atividade
 
 ![diagrama de atividade](https://github.com/VincFreitas/Vinicius-Freitas/blob/main/IMAGENS/DiagramaDeA%C3%A7%C3%A3o.png)
 
-# 3.4 Diagrama de componentes
+# 3.4. Diagrama de componentes
 
-# 3.5 Diagrama de implementação
+# 3.5. Diagrama de implementação
 
-# 4 Histórias de usuarios
+# 4. Histórias de usuarios
 
-# 5 Protótipo de telas
+# 5. Protótipo de telas
 
-# 6 Diagrama de navegação de tela
+# 6. Diagrama de navegação de tela
 
 ## Anexos
 
