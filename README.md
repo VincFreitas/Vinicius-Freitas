@@ -375,6 +375,24 @@ erDiagram
 
 ´´´SQL
 
+-- Remover tabelas existentes (ordem inversa das dependências)
+DROP TABLE IF EXISTS Qualidade
+DROP TABLE IF EXISTS Licenca
+DROP TABLE IF EXISTS NotaFiscal
+DROP TABLE IF EXISTS Produção
+DROP TABLE IF EXISTS Equipamento
+DROP TABLE IF EXISTS Contrato
+DROP TABLE IF EXISTS Incidente
+DROP TABLE IF EXISTS Retorno
+DROP TABLE IF EXISTS MeioAmbiente
+DROP TABLE IF EXISTS Pedido
+DROP TABLE IF EXISTS Frete
+DROP TABLE IF EXISTS Maquina
+DROP TABLE IF EXISTS Acesso
+DROP TABLE IF EXISTS Transporte
+DROP TABLE IF EXISTS Estoque
+DROP TABLE IF EXISTS Cliente
+
 -- Tabela Cliente
 CREATE TABLE Cliente (
     id INT AUTO_INCREMENT PRIMARY KEY,
