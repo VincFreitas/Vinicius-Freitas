@@ -7,7 +7,7 @@ Unemat
 - [2.2. Funcionais e não funcionais](#22-funcionais-e-não-funcionais)
 - [3 Diagramas](#3-diagramas)
   - [3.1 Diagrama de classe](#31-diagrama-de-classe)
-    - [Diagrama feito no no white star (versão 1)](#diagrama-feito-no-no-white-star-versão-1)
+    - [Diagrama feito no white star (versão 1)](#diagrama-feito-no-white-star-versão-1)
     - [Diagrama gerado pelo GPT](#diagrama-gerado-pelo-gpt)
 - [3.1.1. Descrição do diagrama de classe](#311-descrição-do-diagrama-de-classe)
 - [3.2 Diagrama de casos de uso](#32-diagrama-de-casos-de-uso)
@@ -93,7 +93,7 @@ Projeto de engenharia de software para gestão de uma pedreira.
 
 ## 3.1 Diagrama de classe
 
-### Diagrama feito no no white star (versão 1)
+### Diagrama feito no white star (versão 1)
 
 ![diagrama de classe](https://github.com/VincFreitas/Vinicius-Freitas/blob/main/IMAGENS/DiagramaDeClasses1.png)
 
@@ -354,7 +354,7 @@ erDiagram
 
 # 3.3 Diagrama de atividade
 
-fazer para a proxima aula
+![diagrama de atividade]()
 
 # 3.4 Diagrama de componentes
 
