@@ -522,7 +522,7 @@ CREATE TABLE Qualidade (
 >[!TIP]
 > Faça um scritp SQL para MySQL, usando os comandos create anteriores, para popular as tabelas da banco com pelo menos 5 registros ficticios.
 
-```
+```SQL
 
 -- Populando a tabela Cliente
 INSERT INTO Cliente (nome, endereco, cnpj, frequenciaCompra, valorTotalGasto)
@@ -667,7 +667,6 @@ VALUES
 (TRUE, 'Alta qualidade'),
 (FALSE, 'Defeito detectado'),
 (TRUE, 'Produto aceito sem ressalvas');
-
 
 ```
 
